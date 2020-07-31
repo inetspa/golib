@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"context"
 	"crypto/tls"
-	"golib/web"
+	"github.com/inetspa/golib/web"
 	"io"
 	"net/http"
 	"time"

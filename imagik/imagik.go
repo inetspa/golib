@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 	"github.com/disintegration/imaging"
-	"golib/requests"
+	"github.com/inetspa/golib/requests"
 	"image"
 	"net/http"
 )
