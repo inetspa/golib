@@ -46,6 +46,7 @@ const (
 	HeaderLastModified        = "Last-Modified"
 	HeaderLocation            = "Location"
 	HeaderUpgrade             = "Upgrade"
+	HeaderUserAgent           = "User-Agent"
 	HeaderVary                = "Vary"
 	HeaderWWWAuthenticate     = "WWW-Authenticate"
 	HeaderXForwardedFor       = "X-Forwarded-For"
