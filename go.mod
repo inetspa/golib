@@ -20,4 +20,5 @@ require (
 	github.com/prometheus/client_golang v1.7.1
 	github.com/satori/go.uuid v1.2.0
 	github.com/sirupsen/logrus v1.6.0
+	golang.org/x/crypto v0.0.0-20200221231518-2aa609cf4a9d
 )
