@@ -21,4 +21,6 @@ require (
 	github.com/satori/go.uuid v1.2.0
 	github.com/sirupsen/logrus v1.6.0
 	golang.org/x/crypto v0.0.0-20200221231518-2aa609cf4a9d
+	gorm.io/driver/mysql v1.0.1 // indirect
+	gorm.io/gorm v1.20.0 // indirect
 )
